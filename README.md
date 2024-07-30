@@ -8,3 +8,9 @@ Tambien incluye
  * Logout
  * Registro
  * Token de usuarios (se genera al momento de realizar el login)
+
+Modelos Realizados
+ * Experiencia (La experiencia que ha tenido el usuario)
+ * Educación (Escuelas o niveles de estudio que ha realizado)
+ * Projectos (Projectos realizados en las empresas)
+ * Extras (Habilidades, conocimientos, certificaciones que tiene el usuario)
